@@ -18,3 +18,5 @@ for a in text:
 
 average = count3/count4
 print(average)
+
+# notes: I keep getting error when trying to print at line4
